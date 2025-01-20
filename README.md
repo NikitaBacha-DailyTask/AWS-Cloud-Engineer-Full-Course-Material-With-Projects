@@ -14,3 +14,4 @@ You can provision and launch an Amazon EC2 instance within minutes.
 You can stop using it when you have finished running a workload.
 You pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
 You can save costs by paying only for server capacity that you need or want.
+![image](https://github.com/user-attachments/assets/0bd8d832-df74-46cf-b41c-ba51a89830c1)
