@@ -1,2 +1,16 @@
-# AWS-Cloud-Engineer-Full-Course-Material-With-Projects
-AWS Cloud Projects 
+# Amazon Elastic Compute Cloud (Amazon EC2)
+
+Amazon Elastic Compute Cloud (Amazon EC2)(opens in a new tab) provides secure, resizable compute capacity in the cloud as Amazon EC2 instances. 
+
+Imagine you are responsible for the architecture of your company's resources and need to support new websites. With traditional on-premises resources, you have to do the following:
+
+Spend money upfront to purchase hardware.
+Wait for the servers to be delivered to you.
+Install the servers in your physical data center.
+Make all the necessary configurations.
+By comparison, with an Amazon EC2 instance you can use a virtual server to run applications in the AWS Cloud.
+
+You can provision and launch an Amazon EC2 instance within minutes.
+You can stop using it when you have finished running a workload.
+You pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
+You can save costs by paying only for server capacity that you need or want.
